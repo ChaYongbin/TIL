@@ -10,16 +10,16 @@ Write up the learned information using Markdown and Publish useful information o
 
 
 
-### wiki 사용법
+### Wiki Directions
 
 ```
-// pow 설치
+// pow install
 $ curl get.pow.cx | sh
 
-// pow 삭제
+// pow Delete
 $ curl get.pow.cx/uninstall.sh | sh
 
-// 실행
+// Run
 $ cd ~/.pow
 $ ln -s path/to/this_local_repo til.wiki
 ```
