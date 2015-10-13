@@ -8,6 +8,10 @@ Markdown 을 이용하여 배운 내용을 정리하고, 유용한 내용은 블
 
 Write up the learned information using Markdown and Publish useful information on the blog.
 
+
+
+### wiki 사용법
+
 ```
 // pow 설치
 $ curl get.pow.cx | sh
