@@ -25,7 +25,7 @@
 
 > 적극 권장 도서 
 
-* http://aosabook.org
+* [AOSA](http://aosabook.org)
 * [25개 어플리케이션으로 배우는 오픈소스 소프트웨어 아키텍처](http://www.yes24.com/24/Goods/17726792?Acode=101)
 * [The Architecture of Open Source Applications](위의 것의 원본. http://www.yes24.com/24/goods/8087707?scode=032&OzSrank=2)
 * [The Performance of Open Source Applications](http://www.yes24.com/24/goods/13228464?scode=032&OzSrank=1)
