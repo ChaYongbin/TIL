@@ -6,18 +6,24 @@
 
 상수는 let, 변수는 var 로 정의를 한다. 
 
-> let maximumNumberOfLoginAttempts = 10 // 변하지 않는 상수 
-> var currentLoginAttempt = 0 // 자유롭게 변경할 수 있는 변수
+```swift
+let maximumNumberOfLoginAttempts = 10 // 변하지 않는 상수 
+var currentLoginAttempt = 0 // 자유롭게 변경할 수 있는 변수
+```
 
 변경할 필요가 없는 값을 저장하는 경우는 반드시 `let` 상수로 선언.
 
 ### 타입 명시 (Type Annotations)
 
-> var welcomeMessage: String
+```swift
+var welcomeMessage: String
+```
 
 콜론(`:`) 뒤에 타입을 지정할 수 있다. 
 
-> welcomeMessage = "Hello"
+```swift
+welcomeMessage = "Hello"
+```
 
 상수나 변수를 정의하는 지점에 초기값을 지정하는 경우에는 사용할 타입을 추측을 한다. 
 `타입 세이프`와 `타입 추정` 이라고 부른다. 
@@ -28,9 +34,11 @@
 
 다만, 
 
-> let languageName = "Swift"
-> languageName = "Swift++"
-> // this is a compile-time error - languageName cannot be changed 
+```swift
+let languageName = "Swift"
+languageName = "Swift++"
+// this is a compile-time error - languageName cannot be changed 
+```
 
 변수와 다르게 상수는 한번 값이 정해지면 변경을 할 수 없다. 
 
@@ -38,12 +46,16 @@
 
 `print` 함수를 사용하면 상수와 변수의 현재 값을 출력 가능.
 
-> print(friendlyWelcome)
+```swift
+print(friendlyWelcome)
+```
 
 ## 주석(comment)
 
-> //
-> /* */
+```swift
+//
+/* */
+```
 
 ## 세미콜론(Semicolons)
 
@@ -63,4 +75,3 @@
 부호가 없는 정수형 타입.
 * 32bit 플랫폼 -> UInt32
 * 64bit 플랫폼 -> UInt64
-
