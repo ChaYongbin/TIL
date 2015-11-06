@@ -8,8 +8,6 @@ Markdown 을 이용하여 배운 내용을 정리하고, 유용한 내용은 블
 
 Write up the learned information using Markdown and Publish useful information on the blog.
 
-
-
 ### Wiki Directions
 
 ```
@@ -23,3 +21,5 @@ $ curl get.pow.cx/uninstall.sh | sh
 $ cd ~/.pow
 $ ln -s path/to/this_local_repo til.wiki
 ```
+
+[Link](http://til.wiki.dev)
