@@ -5,4 +5,4 @@ Current Version : [Swift 2.1](https://developer.apple.com/library/prerelease/ios
 
 ## The Swift Programming Language (Swift 2.1)
 
-- [The Basic](http://til.wiki.dev/Swift/the_basic)
+- [The Basic (Latest 15.11.6)](http://til.wiki.dev/Swift/the_basic)
