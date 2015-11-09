@@ -1,5 +1,7 @@
 # The Basic
 
+> This Note Is Written By Swift 2.1
+
 ## 상수와 변수
 
 ### 상수와 변수의 선언
